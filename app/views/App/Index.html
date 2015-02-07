@@ -1,0 +1,10 @@
+{{set . "title" "Home"}}
+{{template "header.html" .}}
+
+{{ .contributions }}
+
+<form>
+  <label for="username"><input type="text" name="username" /></label>
+</form>
+
+{{template "footer.html" .}}
