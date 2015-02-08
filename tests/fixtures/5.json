@@ -1,0 +1,1896 @@
+[
+  {
+    "id": "2428914410",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 1984901,
+      "name": "agonzalezro/.dot",
+      "url": "https://api.github.com/repos/agonzalezro/.dot"
+    },
+    "payload": {
+      "push_id": 510960668,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "008f035caf8de08d3f89c61a59ea020f55564228",
+      "before": "7d2eae3c5ff32946540c735a4beea1541e8b1925",
+      "commits": [
+        {
+          "sha": "008f035caf8de08d3f89c61a59ea020f55564228",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "GoImports by default + docker autocompletion",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/.dot/commits/008f035caf8de08d3f89c61a59ea020f55564228"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-26T11:11:36Z"
+  },
+  {
+    "id": "2425315898",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 6077987,
+      "name": "agonzalezro/agonzalezro.github.io",
+      "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io"
+    },
+    "payload": {
+      "push_id": 509434599,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "9cc5f31e4b27dd8cfdada6168c2444eff9ac8568",
+      "before": "0a870864a300aaf8676f219765805916f019dd6a",
+      "commits": [
+        {
+          "sha": "9cc5f31e4b27dd8cfdada6168c2444eff9ac8568",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Docker + Fig + Pligg",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io/commits/9cc5f31e4b27dd8cfdada6168c2444eff9ac8568"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-24T23:08:17Z"
+  },
+  {
+    "id": "2425173308",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 27053426,
+      "name": "agonzalezro/docker-pligg",
+      "url": "https://api.github.com/repos/agonzalezro/docker-pligg"
+    },
+    "payload": {
+      "push_id": 509374721,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "dfd6b1872a82f5731a0688d84bdc254d30543840",
+      "before": "b9db7b38f31ab6f3f9ded799ddb1319a8e6b0f51",
+      "commits": [
+        {
+          "sha": "dfd6b1872a82f5731a0688d84bdc254d30543840",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Initial commit",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker-pligg/commits/dfd6b1872a82f5731a0688d84bdc254d30543840"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-24T22:02:38Z"
+  },
+  {
+    "id": "2424979760",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 27053426,
+      "name": "agonzalezro/docker-pligg",
+      "url": "https://api.github.com/repos/agonzalezro/docker-pligg"
+    },
+    "payload": {
+      "push_id": 509295611,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "b9db7b38f31ab6f3f9ded799ddb1319a8e6b0f51",
+      "before": "aa5f67c5bf4455b1a0785af76791518286d31a81",
+      "commits": [
+        {
+          "sha": "b9db7b38f31ab6f3f9ded799ddb1319a8e6b0f51",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Initial commit",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker-pligg/commits/b9db7b38f31ab6f3f9ded799ddb1319a8e6b0f51"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-24T20:37:58Z"
+  },
+  {
+    "id": "2424681581",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 3391243,
+      "name": "agonzalezro/gnome3-emblems",
+      "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems"
+    },
+    "payload": {
+      "action": "closed",
+      "issue": {
+        "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11",
+        "labels_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11/labels{/name}",
+        "comments_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11/comments",
+        "events_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11/events",
+        "html_url": "https://github.com/agonzalezro/gnome3-emblems/issues/11",
+        "id": 44879857,
+        "number": 11,
+        "title": "Screenshot not found",
+        "user": {
+          "login": "lightonflux",
+          "id": 1377943,
+          "avatar_url": "https://avatars.githubusercontent.com/u/1377943?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/lightonflux",
+          "html_url": "https://github.com/lightonflux",
+          "followers_url": "https://api.github.com/users/lightonflux/followers",
+          "following_url": "https://api.github.com/users/lightonflux/following{/other_user}",
+          "gists_url": "https://api.github.com/users/lightonflux/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/lightonflux/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/lightonflux/subscriptions",
+          "organizations_url": "https://api.github.com/users/lightonflux/orgs",
+          "repos_url": "https://api.github.com/users/lightonflux/repos",
+          "events_url": "https://api.github.com/users/lightonflux/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/lightonflux/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2014-10-04T11:25:20Z",
+        "updated_at": "2014-11-24T18:26:48Z",
+        "closed_at": "2014-11-24T18:26:48Z",
+        "body": "The screenshot linked in the readme gives a \"Not found\" error."
+      }
+    },
+    "public": true,
+    "created_at": "2014-11-24T18:26:48Z"
+  },
+  {
+    "id": "2424681580",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 3391243,
+      "name": "agonzalezro/gnome3-emblems",
+      "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11",
+        "labels_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11/labels{/name}",
+        "comments_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11/comments",
+        "events_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11/events",
+        "html_url": "https://github.com/agonzalezro/gnome3-emblems/issues/11",
+        "id": 44879857,
+        "number": 11,
+        "title": "Screenshot not found",
+        "user": {
+          "login": "lightonflux",
+          "id": 1377943,
+          "avatar_url": "https://avatars.githubusercontent.com/u/1377943?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/lightonflux",
+          "html_url": "https://github.com/lightonflux",
+          "followers_url": "https://api.github.com/users/lightonflux/followers",
+          "following_url": "https://api.github.com/users/lightonflux/following{/other_user}",
+          "gists_url": "https://api.github.com/users/lightonflux/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/lightonflux/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/lightonflux/subscriptions",
+          "organizations_url": "https://api.github.com/users/lightonflux/orgs",
+          "repos_url": "https://api.github.com/users/lightonflux/repos",
+          "events_url": "https://api.github.com/users/lightonflux/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/lightonflux/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2014-10-04T11:25:20Z",
+        "updated_at": "2014-11-24T18:26:48Z",
+        "closed_at": "2014-11-24T18:26:48Z",
+        "body": "The screenshot linked in the readme gives a \"Not found\" error."
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/comments/64239410",
+        "html_url": "https://github.com/agonzalezro/gnome3-emblems/issues/11#issuecomment-64239410",
+        "issue_url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/issues/11",
+        "id": 64239410,
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-11-24T18:26:47Z",
+        "updated_at": "2014-11-24T18:26:47Z",
+        "body": "Awesome. Thanks @lightonflux I've added the screenshot."
+      }
+    },
+    "public": true,
+    "created_at": "2014-11-24T18:26:48Z"
+  },
+  {
+    "id": "2424679596",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 3391243,
+      "name": "agonzalezro/gnome3-emblems",
+      "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems"
+    },
+    "payload": {
+      "push_id": 509173574,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "5450ccc38760c689e99bbffe16856fa7caa7e9eb",
+      "before": "864ce2ff849c2727f274654118b59135ffadffb4",
+      "commits": [
+        {
+          "sha": "5450ccc38760c689e99bbffe16856fa7caa7e9eb",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Add missed screenshot",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/gnome3-emblems/commits/5450ccc38760c689e99bbffe16856fa7caa7e9eb"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-24T18:25:54Z"
+  },
+  {
+    "id": "2423093421",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 27053426,
+      "name": "agonzalezro/docker-pligg",
+      "url": "https://api.github.com/repos/agonzalezro/docker-pligg"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2014-11-24T00:07:25Z"
+  },
+  {
+    "id": "2423093289",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 27053426,
+      "name": "agonzalezro/docker-pligg",
+      "url": "https://api.github.com/repos/agonzalezro/docker-pligg"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2014-11-24T00:07:14Z"
+  },
+  {
+    "id": "2410711090",
+    "type": "PullRequestReviewCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 7691631,
+      "name": "docker/docker",
+      "url": "https://api.github.com/repos/docker/docker"
+    },
+    "payload": {
+      "action": "created",
+      "comment": {
+        "url": "https://api.github.com/repos/docker/docker/pulls/comments/20461761",
+        "id": 20461761,
+        "diff_hunk": "@@ -150,10 +150,14 @@ func (daemon *Daemon) Install(eng *engine.Engine) error {\n func (daemon *Daemon) Get(name string) *Container {\n \tif id, err := daemon.idIndex.Get(name); err == nil {\n \t\treturn daemon.containers.Get(id)\n+\t} else if err == truncindex.ErrDuplicateID {\n+\t\tlog.Errorf(\"Short ID %s is ambiguous: please retry with more characters or use the full ID.\", name)",
+        "path": "daemon/daemon.go",
+        "position": null,
+        "original_position": 5,
+        "commit_id": "a3e6a25d57cc0df079732b677bba479dea2ad9bd",
+        "original_commit_id": "c373ad1dcf90c5a913883db63bca569cfc9ef7ef",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "My bad, you explained yourself properly, but I made a mistake with the commit-id that I was pushing.",
+        "created_at": "2014-11-17T20:16:41Z",
+        "updated_at": "2014-11-17T20:16:41Z",
+        "html_url": "https://github.com/docker/docker/pull/8941#discussion_r20461761",
+        "pull_request_url": "https://api.github.com/repos/docker/docker/pulls/8941",
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/comments/20461761"
+          },
+          "html": {
+            "href": "https://github.com/docker/docker/pull/8941#discussion_r20461761"
+          },
+          "pull_request": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941"
+          }
+        }
+      },
+      "pull_request": {
+        "url": "https://api.github.com/repos/docker/docker/pulls/8941",
+        "id": 23822463,
+        "html_url": "https://github.com/docker/docker/pull/8941",
+        "diff_url": "https://github.com/docker/docker/pull/8941.diff",
+        "patch_url": "https://github.com/docker/docker/pull/8941.patch",
+        "issue_url": "https://api.github.com/repos/docker/docker/issues/8941",
+        "number": 8941,
+        "state": "open",
+        "locked": false,
+        "title": "Log when truncindex.Get returns >1 container",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "When the user is not using the full has to retrieve a container it's\r\npossible that we find conflicts with the ids of other containers.\r\n\r\nAt the moment it's just failing saying that it can not find a container,\r\nbut it doesn't say why. Adding a small log saying that duplicates where\r\nfound is going to help the user.\r\n\r\nCloses #8098",
+        "created_at": "2014-11-04T10:25:25Z",
+        "updated_at": "2014-11-17T20:16:41Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": "444815eb7be3d9e294ec20f6455981ad18f7c6be",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/docker/docker/pulls/8941/commits",
+        "review_comments_url": "https://api.github.com/repos/docker/docker/pulls/8941/comments",
+        "review_comment_url": "https://api.github.com/repos/docker/docker/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/docker/docker/issues/8941/comments",
+        "statuses_url": "https://api.github.com/repos/docker/docker/statuses/a3e6a25d57cc0df079732b677bba479dea2ad9bd",
+        "head": {
+          "label": "agonzalezro:log-duplicates",
+          "ref": "log-duplicates",
+          "sha": "a3e6a25d57cc0df079732b677bba479dea2ad9bd",
+          "user": {
+            "login": "agonzalezro",
+            "id": 205176,
+            "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/agonzalezro",
+            "html_url": "https://github.com/agonzalezro",
+            "followers_url": "https://api.github.com/users/agonzalezro/followers",
+            "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+            "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+            "repos_url": "https://api.github.com/users/agonzalezro/repos",
+            "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 26097657,
+            "name": "docker",
+            "full_name": "agonzalezro/docker",
+            "owner": {
+              "login": "agonzalezro",
+              "id": 205176,
+              "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/agonzalezro",
+              "html_url": "https://github.com/agonzalezro",
+              "followers_url": "https://api.github.com/users/agonzalezro/followers",
+              "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+              "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+              "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+              "repos_url": "https://api.github.com/users/agonzalezro/repos",
+              "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/agonzalezro/docker",
+            "description": "Docker - the open-source application container engine",
+            "fork": true,
+            "url": "https://api.github.com/repos/agonzalezro/docker",
+            "forks_url": "https://api.github.com/repos/agonzalezro/docker/forks",
+            "keys_url": "https://api.github.com/repos/agonzalezro/docker/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/agonzalezro/docker/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/agonzalezro/docker/teams",
+            "hooks_url": "https://api.github.com/repos/agonzalezro/docker/hooks",
+            "issue_events_url": "https://api.github.com/repos/agonzalezro/docker/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/agonzalezro/docker/events",
+            "assignees_url": "https://api.github.com/repos/agonzalezro/docker/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/agonzalezro/docker/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/agonzalezro/docker/tags",
+            "blobs_url": "https://api.github.com/repos/agonzalezro/docker/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/agonzalezro/docker/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/agonzalezro/docker/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/agonzalezro/docker/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/agonzalezro/docker/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/agonzalezro/docker/languages",
+            "stargazers_url": "https://api.github.com/repos/agonzalezro/docker/stargazers",
+            "contributors_url": "https://api.github.com/repos/agonzalezro/docker/contributors",
+            "subscribers_url": "https://api.github.com/repos/agonzalezro/docker/subscribers",
+            "subscription_url": "https://api.github.com/repos/agonzalezro/docker/subscription",
+            "commits_url": "https://api.github.com/repos/agonzalezro/docker/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/agonzalezro/docker/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/agonzalezro/docker/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/agonzalezro/docker/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/agonzalezro/docker/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/agonzalezro/docker/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/agonzalezro/docker/merges",
+            "archive_url": "https://api.github.com/repos/agonzalezro/docker/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/agonzalezro/docker/downloads",
+            "issues_url": "https://api.github.com/repos/agonzalezro/docker/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/agonzalezro/docker/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/agonzalezro/docker/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/agonzalezro/docker/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/agonzalezro/docker/labels{/name}",
+            "releases_url": "https://api.github.com/repos/agonzalezro/docker/releases{/id}",
+            "created_at": "2014-11-03T00:25:15Z",
+            "updated_at": "2014-11-03T00:04:52Z",
+            "pushed_at": "2014-11-17T20:15:14Z",
+            "git_url": "git://github.com/agonzalezro/docker.git",
+            "ssh_url": "git@github.com:agonzalezro/docker.git",
+            "clone_url": "https://github.com/agonzalezro/docker.git",
+            "svn_url": "https://github.com/agonzalezro/docker",
+            "homepage": "http://www.docker.com",
+            "size": 35624,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": false,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "docker:master",
+          "ref": "master",
+          "sha": "ecaba0eb4abd5ad26eb07f7ac89a16b8914347fa",
+          "user": {
+            "login": "docker",
+            "id": 5429470,
+            "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/docker",
+            "html_url": "https://github.com/docker",
+            "followers_url": "https://api.github.com/users/docker/followers",
+            "following_url": "https://api.github.com/users/docker/following{/other_user}",
+            "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+            "organizations_url": "https://api.github.com/users/docker/orgs",
+            "repos_url": "https://api.github.com/users/docker/repos",
+            "events_url": "https://api.github.com/users/docker/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/docker/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 7691631,
+            "name": "docker",
+            "full_name": "docker/docker",
+            "owner": {
+              "login": "docker",
+              "id": 5429470,
+              "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/docker",
+              "html_url": "https://github.com/docker",
+              "followers_url": "https://api.github.com/users/docker/followers",
+              "following_url": "https://api.github.com/users/docker/following{/other_user}",
+              "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+              "organizations_url": "https://api.github.com/users/docker/orgs",
+              "repos_url": "https://api.github.com/users/docker/repos",
+              "events_url": "https://api.github.com/users/docker/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/docker/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/docker/docker",
+            "description": "Docker - the open-source application container engine",
+            "fork": false,
+            "url": "https://api.github.com/repos/docker/docker",
+            "forks_url": "https://api.github.com/repos/docker/docker/forks",
+            "keys_url": "https://api.github.com/repos/docker/docker/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/docker/docker/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/docker/docker/teams",
+            "hooks_url": "https://api.github.com/repos/docker/docker/hooks",
+            "issue_events_url": "https://api.github.com/repos/docker/docker/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/docker/docker/events",
+            "assignees_url": "https://api.github.com/repos/docker/docker/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/docker/docker/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/docker/docker/tags",
+            "blobs_url": "https://api.github.com/repos/docker/docker/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/docker/docker/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/docker/docker/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/docker/docker/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/docker/docker/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/docker/docker/languages",
+            "stargazers_url": "https://api.github.com/repos/docker/docker/stargazers",
+            "contributors_url": "https://api.github.com/repos/docker/docker/contributors",
+            "subscribers_url": "https://api.github.com/repos/docker/docker/subscribers",
+            "subscription_url": "https://api.github.com/repos/docker/docker/subscription",
+            "commits_url": "https://api.github.com/repos/docker/docker/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/docker/docker/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/docker/docker/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/docker/docker/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/docker/docker/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/docker/docker/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/docker/docker/merges",
+            "archive_url": "https://api.github.com/repos/docker/docker/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/docker/docker/downloads",
+            "issues_url": "https://api.github.com/repos/docker/docker/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/docker/docker/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/docker/docker/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/docker/docker/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/docker/docker/labels{/name}",
+            "releases_url": "https://api.github.com/repos/docker/docker/releases{/id}",
+            "created_at": "2013-01-18T18:10:57Z",
+            "updated_at": "2014-11-17T19:58:02Z",
+            "pushed_at": "2014-11-17T19:53:24Z",
+            "git_url": "git://github.com/docker/docker.git",
+            "ssh_url": "git@github.com:docker/docker.git",
+            "clone_url": "https://github.com/docker/docker.git",
+            "svn_url": "https://github.com/docker/docker",
+            "homepage": "http://www.docker.com",
+            "size": 160095,
+            "stargazers_count": 16703,
+            "watchers_count": 16703,
+            "language": "Go",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": false,
+            "has_pages": false,
+            "forks_count": 3308,
+            "mirror_url": null,
+            "open_issues_count": 911,
+            "forks": 3308,
+            "open_issues": 911,
+            "watchers": 16703,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941"
+          },
+          "html": {
+            "href": "https://github.com/docker/docker/pull/8941"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/docker/docker/issues/8941"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/docker/docker/issues/8941/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/docker/docker/statuses/a3e6a25d57cc0df079732b677bba479dea2ad9bd"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2014-11-17T20:16:41Z",
+    "org": {
+      "id": 5429470,
+      "login": "docker",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/docker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5429470?"
+    }
+  },
+  {
+    "id": "2410707879",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 26097657,
+      "name": "agonzalezro/docker",
+      "url": "https://api.github.com/repos/agonzalezro/docker"
+    },
+    "payload": {
+      "push_id": 503195220,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/log-duplicates",
+      "head": "a3e6a25d57cc0df079732b677bba479dea2ad9bd",
+      "before": "a442e42ea62b08920e5aa245a6345f5185d4b23e",
+      "commits": [
+        {
+          "sha": "a3e6a25d57cc0df079732b677bba479dea2ad9bd",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Log when truncindex.Get returns >1 container\n\nWhen the user is not using the full has to retrieve a container it's\npossible that we find conflicts with the ids of other containers.\n\nAt the moment it's just failing saying that it can not find a container,\nbut it doesn't say why. Adding a small log saying that duplicates where\nfound is going to help the user.\n\nCloses #8098\n\nSigned-off-by: Alex Gonzalez <agonzalezro@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker/commits/a3e6a25d57cc0df079732b677bba479dea2ad9bd"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-17T20:15:18Z"
+  },
+  {
+    "id": "2410705922",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 26097657,
+      "name": "agonzalezro/docker",
+      "url": "https://api.github.com/repos/agonzalezro/docker"
+    },
+    "payload": {
+      "push_id": 503194409,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/log-duplicates",
+      "head": "a442e42ea62b08920e5aa245a6345f5185d4b23e",
+      "before": "aed471336aadf276af0721e4c1562aa40efd2a4f",
+      "commits": [
+        {
+          "sha": "a442e42ea62b08920e5aa245a6345f5185d4b23e",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Log when truncindex.Get returns >1 container\n\nWhen the user is not using the full has to retrieve a container it's\npossible that we find conflicts with the ids of other containers.\n\nAt the moment it's just failing saying that it can not find a container,\nbut it doesn't say why. Adding a small log saying that duplicates where\nfound is going to help the user.\n\nCloses #8098\n\nSigned-off-by: Alex Gonzalez <agonzalezro@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker/commits/a442e42ea62b08920e5aa245a6345f5185d4b23e"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-17T20:14:23Z"
+  },
+  {
+    "id": "2410700121",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 26097657,
+      "name": "agonzalezro/docker",
+      "url": "https://api.github.com/repos/agonzalezro/docker"
+    },
+    "payload": {
+      "push_id": 503192055,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/log-duplicates",
+      "head": "aed471336aadf276af0721e4c1562aa40efd2a4f",
+      "before": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+      "commits": [
+        {
+          "sha": "aed471336aadf276af0721e4c1562aa40efd2a4f",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Log when truncindex.Get returns >1 container\n\nWhen the user is not using the full has to retrieve a container it's\npossible that we find conflicts with the ids of other containers.\n\nAt the moment it's just failing saying that it can not find a container,\nbut it doesn't say why. Adding a small log saying that duplicates where\nfound is going to help the user.\n\nCloses #8098\n\nSigned-off-by: Alex Gonzalez <agonzalezro@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker/commits/aed471336aadf276af0721e4c1562aa40efd2a4f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-17T20:11:45Z"
+  },
+  {
+    "id": "2410698850",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 26097657,
+      "name": "agonzalezro/docker",
+      "url": "https://api.github.com/repos/agonzalezro/docker"
+    },
+    "payload": {
+      "push_id": 503191527,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/log-duplicates",
+      "head": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+      "before": "c373ad1dcf90c5a913883db63bca569cfc9ef7ef",
+      "commits": [
+        {
+          "sha": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Log when truncindex.Get returns >1 container\n\nWhen the user is not using the full has to retrieve a container it's\npossible that we find conflicts with the ids of other containers.\n\nAt the moment it's just failing saying that it can not find a container,\nbut it doesn't say why. Adding a small log saying that duplicates where\nfound is going to help the user.\n\nCloses #8098\n\nSigned-off-by: Alex Gonzalez <agonzalezro@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker/commits/6d6213ca87c7154bea1a6f7e00b135ce99549d01"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-17T20:11:12Z"
+  },
+  {
+    "id": "2410529448",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 7691631,
+      "name": "docker/docker",
+      "url": "https://api.github.com/repos/docker/docker"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/docker/docker/issues/8941",
+        "labels_url": "https://api.github.com/repos/docker/docker/issues/8941/labels{/name}",
+        "comments_url": "https://api.github.com/repos/docker/docker/issues/8941/comments",
+        "events_url": "https://api.github.com/repos/docker/docker/issues/8941/events",
+        "html_url": "https://github.com/docker/docker/pull/8941",
+        "id": 47697890,
+        "number": 8941,
+        "title": "Log when truncindex.Get returns >1 container",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 4,
+        "created_at": "2014-11-04T10:25:25Z",
+        "updated_at": "2014-11-17T18:57:04Z",
+        "closed_at": null,
+        "pull_request": {
+          "url": "https://api.github.com/repos/docker/docker/pulls/8941",
+          "html_url": "https://github.com/docker/docker/pull/8941",
+          "diff_url": "https://github.com/docker/docker/pull/8941.diff",
+          "patch_url": "https://github.com/docker/docker/pull/8941.patch"
+        },
+        "body": "When the user is not using the full has to retrieve a container it's\r\npossible that we find conflicts with the ids of other containers.\r\n\r\nAt the moment it's just failing saying that it can not find a container,\r\nbut it doesn't say why. Adding a small log saying that duplicates where\r\nfound is going to help the user.\r\n\r\nCloses #8098"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/docker/docker/issues/comments/63355392",
+        "html_url": "https://github.com/docker/docker/pull/8941#issuecomment-63355392",
+        "issue_url": "https://api.github.com/repos/docker/docker/issues/8941",
+        "id": 63355392,
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2014-11-17T18:57:04Z",
+        "updated_at": "2014-11-17T18:57:04Z",
+        "body": "Sorry @icecrime I was testing that one. It should be ready now."
+      }
+    },
+    "public": true,
+    "created_at": "2014-11-17T18:57:05Z",
+    "org": {
+      "id": 5429470,
+      "login": "docker",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/docker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5429470?"
+    }
+  },
+  {
+    "id": "2410528465",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 26097657,
+      "name": "agonzalezro/docker",
+      "url": "https://api.github.com/repos/agonzalezro/docker"
+    },
+    "payload": {
+      "push_id": 503121681,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/log-duplicates",
+      "head": "c373ad1dcf90c5a913883db63bca569cfc9ef7ef",
+      "before": "de11081d9778aba3719512f917470ce5c8e4226b",
+      "commits": [
+        {
+          "sha": "c373ad1dcf90c5a913883db63bca569cfc9ef7ef",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Log when truncindex.Get returns >1 container\n\nWhen the user is not using the full has to retrieve a container it's\npossible that we find conflicts with the ids of other containers.\n\nAt the moment it's just failing saying that it can not find a container,\nbut it doesn't say why. Adding a small log saying that duplicates where\nfound is going to help the user.\n\nCloses #8098\n\nSigned-off-by: Alex Gonzalez <agonzalezro@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker/commits/c373ad1dcf90c5a913883db63bca569cfc9ef7ef"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-17T18:56:40Z"
+  },
+  {
+    "id": "2410491783",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 26097657,
+      "name": "agonzalezro/docker",
+      "url": "https://api.github.com/repos/agonzalezro/docker"
+    },
+    "payload": {
+      "push_id": 503106497,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/log-duplicates",
+      "head": "de11081d9778aba3719512f917470ce5c8e4226b",
+      "before": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+      "commits": [
+        {
+          "sha": "de11081d9778aba3719512f917470ce5c8e4226b",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Log when truncindex.Get returns >1 container\n\nWhen the user is not using the full has to retrieve a container it's\npossible that we find conflicts with the ids of other containers.\n\nAt the moment it's just failing saying that it can not find a container,\nbut it doesn't say why. Adding a small log saying that duplicates where\nfound is going to help the user.\n\nCloses #8098\n\nSigned-off-by: Alex Gonzalez <agonzalezro@gmail.com>",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/docker/commits/de11081d9778aba3719512f917470ce5c8e4226b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-17T18:40:20Z"
+  },
+  {
+    "id": "2410489976",
+    "type": "PullRequestReviewCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 7691631,
+      "name": "docker/docker",
+      "url": "https://api.github.com/repos/docker/docker"
+    },
+    "payload": {
+      "action": "created",
+      "comment": {
+        "url": "https://api.github.com/repos/docker/docker/pulls/comments/20454373",
+        "id": 20454373,
+        "diff_hunk": "@@ -11,8 +11,9 @@ import (\n \n var (\n \t// ErrNoID is thrown when attempting to use empty prefixes\n-\tErrNoID        = errors.New(\"prefix can't be empty\")\n-\terrDuplicateID = errors.New(\"multiple IDs were found\")\n+\tErrNoID = errors.New(\"prefix can't be empty\")\n+\t// ErrDuplicateID is thron when a duplicated id was found",
+        "path": "pkg/truncindex/truncindex.go",
+        "position": 7,
+        "original_position": 7,
+        "commit_id": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+        "original_commit_id": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "![](http://social.bioware.com/uploads_user/1697000/1696184/252884.gif)",
+        "created_at": "2014-11-17T18:39:32Z",
+        "updated_at": "2014-11-17T18:39:32Z",
+        "html_url": "https://github.com/docker/docker/pull/8941#discussion_r20454373",
+        "pull_request_url": "https://api.github.com/repos/docker/docker/pulls/8941",
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/comments/20454373"
+          },
+          "html": {
+            "href": "https://github.com/docker/docker/pull/8941#discussion_r20454373"
+          },
+          "pull_request": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941"
+          }
+        }
+      },
+      "pull_request": {
+        "url": "https://api.github.com/repos/docker/docker/pulls/8941",
+        "id": 23822463,
+        "html_url": "https://github.com/docker/docker/pull/8941",
+        "diff_url": "https://github.com/docker/docker/pull/8941.diff",
+        "patch_url": "https://github.com/docker/docker/pull/8941.patch",
+        "issue_url": "https://api.github.com/repos/docker/docker/issues/8941",
+        "number": 8941,
+        "state": "open",
+        "locked": false,
+        "title": "Log when truncindex.Get returns >1 container",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "When the user is not using the full has to retrieve a container it's\r\npossible that we find conflicts with the ids of other containers.\r\n\r\nAt the moment it's just failing saying that it can not find a container,\r\nbut it doesn't say why. Adding a small log saying that duplicates where\r\nfound is going to help the user.\r\n\r\nCloses #8098",
+        "created_at": "2014-11-04T10:25:25Z",
+        "updated_at": "2014-11-17T18:39:32Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": "360f388fd56408e8db233fe48b7cf861392a16a8",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/docker/docker/pulls/8941/commits",
+        "review_comments_url": "https://api.github.com/repos/docker/docker/pulls/8941/comments",
+        "review_comment_url": "https://api.github.com/repos/docker/docker/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/docker/docker/issues/8941/comments",
+        "statuses_url": "https://api.github.com/repos/docker/docker/statuses/6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+        "head": {
+          "label": "agonzalezro:log-duplicates",
+          "ref": "log-duplicates",
+          "sha": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+          "user": {
+            "login": "agonzalezro",
+            "id": 205176,
+            "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/agonzalezro",
+            "html_url": "https://github.com/agonzalezro",
+            "followers_url": "https://api.github.com/users/agonzalezro/followers",
+            "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+            "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+            "repos_url": "https://api.github.com/users/agonzalezro/repos",
+            "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 26097657,
+            "name": "docker",
+            "full_name": "agonzalezro/docker",
+            "owner": {
+              "login": "agonzalezro",
+              "id": 205176,
+              "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/agonzalezro",
+              "html_url": "https://github.com/agonzalezro",
+              "followers_url": "https://api.github.com/users/agonzalezro/followers",
+              "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+              "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+              "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+              "repos_url": "https://api.github.com/users/agonzalezro/repos",
+              "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/agonzalezro/docker",
+            "description": "Docker - the open-source application container engine",
+            "fork": true,
+            "url": "https://api.github.com/repos/agonzalezro/docker",
+            "forks_url": "https://api.github.com/repos/agonzalezro/docker/forks",
+            "keys_url": "https://api.github.com/repos/agonzalezro/docker/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/agonzalezro/docker/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/agonzalezro/docker/teams",
+            "hooks_url": "https://api.github.com/repos/agonzalezro/docker/hooks",
+            "issue_events_url": "https://api.github.com/repos/agonzalezro/docker/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/agonzalezro/docker/events",
+            "assignees_url": "https://api.github.com/repos/agonzalezro/docker/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/agonzalezro/docker/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/agonzalezro/docker/tags",
+            "blobs_url": "https://api.github.com/repos/agonzalezro/docker/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/agonzalezro/docker/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/agonzalezro/docker/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/agonzalezro/docker/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/agonzalezro/docker/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/agonzalezro/docker/languages",
+            "stargazers_url": "https://api.github.com/repos/agonzalezro/docker/stargazers",
+            "contributors_url": "https://api.github.com/repos/agonzalezro/docker/contributors",
+            "subscribers_url": "https://api.github.com/repos/agonzalezro/docker/subscribers",
+            "subscription_url": "https://api.github.com/repos/agonzalezro/docker/subscription",
+            "commits_url": "https://api.github.com/repos/agonzalezro/docker/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/agonzalezro/docker/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/agonzalezro/docker/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/agonzalezro/docker/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/agonzalezro/docker/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/agonzalezro/docker/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/agonzalezro/docker/merges",
+            "archive_url": "https://api.github.com/repos/agonzalezro/docker/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/agonzalezro/docker/downloads",
+            "issues_url": "https://api.github.com/repos/agonzalezro/docker/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/agonzalezro/docker/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/agonzalezro/docker/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/agonzalezro/docker/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/agonzalezro/docker/labels{/name}",
+            "releases_url": "https://api.github.com/repos/agonzalezro/docker/releases{/id}",
+            "created_at": "2014-11-03T00:25:15Z",
+            "updated_at": "2014-11-03T00:04:52Z",
+            "pushed_at": "2014-11-04T11:13:23Z",
+            "git_url": "git://github.com/agonzalezro/docker.git",
+            "ssh_url": "git@github.com:agonzalezro/docker.git",
+            "clone_url": "https://github.com/agonzalezro/docker.git",
+            "svn_url": "https://github.com/agonzalezro/docker",
+            "homepage": "http://www.docker.com",
+            "size": 35557,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": false,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "docker:master",
+          "ref": "master",
+          "sha": "b68d7d39bcd96744eec883bb305e907c10fe6aa6",
+          "user": {
+            "login": "docker",
+            "id": 5429470,
+            "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/docker",
+            "html_url": "https://github.com/docker",
+            "followers_url": "https://api.github.com/users/docker/followers",
+            "following_url": "https://api.github.com/users/docker/following{/other_user}",
+            "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+            "organizations_url": "https://api.github.com/users/docker/orgs",
+            "repos_url": "https://api.github.com/users/docker/repos",
+            "events_url": "https://api.github.com/users/docker/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/docker/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 7691631,
+            "name": "docker",
+            "full_name": "docker/docker",
+            "owner": {
+              "login": "docker",
+              "id": 5429470,
+              "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/docker",
+              "html_url": "https://github.com/docker",
+              "followers_url": "https://api.github.com/users/docker/followers",
+              "following_url": "https://api.github.com/users/docker/following{/other_user}",
+              "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+              "organizations_url": "https://api.github.com/users/docker/orgs",
+              "repos_url": "https://api.github.com/users/docker/repos",
+              "events_url": "https://api.github.com/users/docker/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/docker/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/docker/docker",
+            "description": "Docker - the open-source application container engine",
+            "fork": false,
+            "url": "https://api.github.com/repos/docker/docker",
+            "forks_url": "https://api.github.com/repos/docker/docker/forks",
+            "keys_url": "https://api.github.com/repos/docker/docker/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/docker/docker/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/docker/docker/teams",
+            "hooks_url": "https://api.github.com/repos/docker/docker/hooks",
+            "issue_events_url": "https://api.github.com/repos/docker/docker/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/docker/docker/events",
+            "assignees_url": "https://api.github.com/repos/docker/docker/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/docker/docker/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/docker/docker/tags",
+            "blobs_url": "https://api.github.com/repos/docker/docker/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/docker/docker/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/docker/docker/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/docker/docker/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/docker/docker/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/docker/docker/languages",
+            "stargazers_url": "https://api.github.com/repos/docker/docker/stargazers",
+            "contributors_url": "https://api.github.com/repos/docker/docker/contributors",
+            "subscribers_url": "https://api.github.com/repos/docker/docker/subscribers",
+            "subscription_url": "https://api.github.com/repos/docker/docker/subscription",
+            "commits_url": "https://api.github.com/repos/docker/docker/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/docker/docker/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/docker/docker/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/docker/docker/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/docker/docker/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/docker/docker/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/docker/docker/merges",
+            "archive_url": "https://api.github.com/repos/docker/docker/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/docker/docker/downloads",
+            "issues_url": "https://api.github.com/repos/docker/docker/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/docker/docker/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/docker/docker/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/docker/docker/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/docker/docker/labels{/name}",
+            "releases_url": "https://api.github.com/repos/docker/docker/releases{/id}",
+            "created_at": "2013-01-18T18:10:57Z",
+            "updated_at": "2014-11-17T17:06:29Z",
+            "pushed_at": "2014-11-17T06:10:41Z",
+            "git_url": "git://github.com/docker/docker.git",
+            "ssh_url": "git@github.com:docker/docker.git",
+            "clone_url": "https://github.com/docker/docker.git",
+            "svn_url": "https://github.com/docker/docker",
+            "homepage": "http://www.docker.com",
+            "size": 159807,
+            "stargazers_count": 16700,
+            "watchers_count": 16700,
+            "language": "Go",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": false,
+            "has_pages": false,
+            "forks_count": 3308,
+            "mirror_url": null,
+            "open_issues_count": 909,
+            "forks": 3308,
+            "open_issues": 909,
+            "watchers": 16700,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941"
+          },
+          "html": {
+            "href": "https://github.com/docker/docker/pull/8941"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/docker/docker/issues/8941"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/docker/docker/issues/8941/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/docker/docker/statuses/6d6213ca87c7154bea1a6f7e00b135ce99549d01"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2014-11-17T18:39:32Z",
+    "org": {
+      "id": 5429470,
+      "login": "docker",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/docker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5429470?"
+    }
+  },
+  {
+    "id": "2410487595",
+    "type": "PullRequestReviewCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 7691631,
+      "name": "docker/docker",
+      "url": "https://api.github.com/repos/docker/docker"
+    },
+    "payload": {
+      "action": "created",
+      "comment": {
+        "url": "https://api.github.com/repos/docker/docker/pulls/comments/20454306",
+        "id": 20454306,
+        "diff_hunk": "@@ -148,12 +148,19 @@ func (daemon *Daemon) Install(eng *engine.Engine) error {\n // Get looks for a container by the specified ID or name, and returns it.\n // If the container is not found, or if an error occurs, nil is returned.\n func (daemon *Daemon) Get(name string) *Container {\n+\tvar err error\n+\n \tif id, err := daemon.idIndex.Get(name); err == nil {\n \t\treturn daemon.containers.Get(id)\n \t}\n+\n \tif c, _ := daemon.GetByName(name); c != nil {\n \t\treturn c\n \t}\n+\n+\tif err == truncindex.ErrDuplicateID {\n+\t\tlog.Errorf(\"Container ID %s is ambigous. Please retry with a longer short ID or use the full ID.\\n\", name)",
+        "path": "daemon/daemon.go",
+        "position": 15,
+        "original_position": 15,
+        "commit_id": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+        "original_commit_id": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "Typos are mine :) One of your colleagues recommended that message and it kinda make sense (pretty similar to the git one), but I am changing it for yours.",
+        "created_at": "2014-11-17T18:38:23Z",
+        "updated_at": "2014-11-17T18:38:23Z",
+        "html_url": "https://github.com/docker/docker/pull/8941#discussion_r20454306",
+        "pull_request_url": "https://api.github.com/repos/docker/docker/pulls/8941",
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/comments/20454306"
+          },
+          "html": {
+            "href": "https://github.com/docker/docker/pull/8941#discussion_r20454306"
+          },
+          "pull_request": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941"
+          }
+        }
+      },
+      "pull_request": {
+        "url": "https://api.github.com/repos/docker/docker/pulls/8941",
+        "id": 23822463,
+        "html_url": "https://github.com/docker/docker/pull/8941",
+        "diff_url": "https://github.com/docker/docker/pull/8941.diff",
+        "patch_url": "https://github.com/docker/docker/pull/8941.patch",
+        "issue_url": "https://api.github.com/repos/docker/docker/issues/8941",
+        "number": 8941,
+        "state": "open",
+        "locked": false,
+        "title": "Log when truncindex.Get returns >1 container",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "When the user is not using the full has to retrieve a container it's\r\npossible that we find conflicts with the ids of other containers.\r\n\r\nAt the moment it's just failing saying that it can not find a container,\r\nbut it doesn't say why. Adding a small log saying that duplicates where\r\nfound is going to help the user.\r\n\r\nCloses #8098",
+        "created_at": "2014-11-04T10:25:25Z",
+        "updated_at": "2014-11-17T18:38:23Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": "360f388fd56408e8db233fe48b7cf861392a16a8",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/docker/docker/pulls/8941/commits",
+        "review_comments_url": "https://api.github.com/repos/docker/docker/pulls/8941/comments",
+        "review_comment_url": "https://api.github.com/repos/docker/docker/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/docker/docker/issues/8941/comments",
+        "statuses_url": "https://api.github.com/repos/docker/docker/statuses/6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+        "head": {
+          "label": "agonzalezro:log-duplicates",
+          "ref": "log-duplicates",
+          "sha": "6d6213ca87c7154bea1a6f7e00b135ce99549d01",
+          "user": {
+            "login": "agonzalezro",
+            "id": 205176,
+            "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/agonzalezro",
+            "html_url": "https://github.com/agonzalezro",
+            "followers_url": "https://api.github.com/users/agonzalezro/followers",
+            "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+            "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+            "repos_url": "https://api.github.com/users/agonzalezro/repos",
+            "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 26097657,
+            "name": "docker",
+            "full_name": "agonzalezro/docker",
+            "owner": {
+              "login": "agonzalezro",
+              "id": 205176,
+              "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/agonzalezro",
+              "html_url": "https://github.com/agonzalezro",
+              "followers_url": "https://api.github.com/users/agonzalezro/followers",
+              "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+              "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+              "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+              "repos_url": "https://api.github.com/users/agonzalezro/repos",
+              "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/agonzalezro/docker",
+            "description": "Docker - the open-source application container engine",
+            "fork": true,
+            "url": "https://api.github.com/repos/agonzalezro/docker",
+            "forks_url": "https://api.github.com/repos/agonzalezro/docker/forks",
+            "keys_url": "https://api.github.com/repos/agonzalezro/docker/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/agonzalezro/docker/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/agonzalezro/docker/teams",
+            "hooks_url": "https://api.github.com/repos/agonzalezro/docker/hooks",
+            "issue_events_url": "https://api.github.com/repos/agonzalezro/docker/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/agonzalezro/docker/events",
+            "assignees_url": "https://api.github.com/repos/agonzalezro/docker/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/agonzalezro/docker/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/agonzalezro/docker/tags",
+            "blobs_url": "https://api.github.com/repos/agonzalezro/docker/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/agonzalezro/docker/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/agonzalezro/docker/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/agonzalezro/docker/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/agonzalezro/docker/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/agonzalezro/docker/languages",
+            "stargazers_url": "https://api.github.com/repos/agonzalezro/docker/stargazers",
+            "contributors_url": "https://api.github.com/repos/agonzalezro/docker/contributors",
+            "subscribers_url": "https://api.github.com/repos/agonzalezro/docker/subscribers",
+            "subscription_url": "https://api.github.com/repos/agonzalezro/docker/subscription",
+            "commits_url": "https://api.github.com/repos/agonzalezro/docker/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/agonzalezro/docker/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/agonzalezro/docker/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/agonzalezro/docker/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/agonzalezro/docker/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/agonzalezro/docker/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/agonzalezro/docker/merges",
+            "archive_url": "https://api.github.com/repos/agonzalezro/docker/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/agonzalezro/docker/downloads",
+            "issues_url": "https://api.github.com/repos/agonzalezro/docker/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/agonzalezro/docker/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/agonzalezro/docker/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/agonzalezro/docker/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/agonzalezro/docker/labels{/name}",
+            "releases_url": "https://api.github.com/repos/agonzalezro/docker/releases{/id}",
+            "created_at": "2014-11-03T00:25:15Z",
+            "updated_at": "2014-11-03T00:04:52Z",
+            "pushed_at": "2014-11-04T11:13:23Z",
+            "git_url": "git://github.com/agonzalezro/docker.git",
+            "ssh_url": "git@github.com:agonzalezro/docker.git",
+            "clone_url": "https://github.com/agonzalezro/docker.git",
+            "svn_url": "https://github.com/agonzalezro/docker",
+            "homepage": "http://www.docker.com",
+            "size": 35557,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": false,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "docker:master",
+          "ref": "master",
+          "sha": "b68d7d39bcd96744eec883bb305e907c10fe6aa6",
+          "user": {
+            "login": "docker",
+            "id": 5429470,
+            "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/docker",
+            "html_url": "https://github.com/docker",
+            "followers_url": "https://api.github.com/users/docker/followers",
+            "following_url": "https://api.github.com/users/docker/following{/other_user}",
+            "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+            "organizations_url": "https://api.github.com/users/docker/orgs",
+            "repos_url": "https://api.github.com/users/docker/repos",
+            "events_url": "https://api.github.com/users/docker/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/docker/received_events",
+            "type": "Organization",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 7691631,
+            "name": "docker",
+            "full_name": "docker/docker",
+            "owner": {
+              "login": "docker",
+              "id": 5429470,
+              "avatar_url": "https://avatars.githubusercontent.com/u/5429470?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/docker",
+              "html_url": "https://github.com/docker",
+              "followers_url": "https://api.github.com/users/docker/followers",
+              "following_url": "https://api.github.com/users/docker/following{/other_user}",
+              "gists_url": "https://api.github.com/users/docker/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/docker/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/docker/subscriptions",
+              "organizations_url": "https://api.github.com/users/docker/orgs",
+              "repos_url": "https://api.github.com/users/docker/repos",
+              "events_url": "https://api.github.com/users/docker/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/docker/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/docker/docker",
+            "description": "Docker - the open-source application container engine",
+            "fork": false,
+            "url": "https://api.github.com/repos/docker/docker",
+            "forks_url": "https://api.github.com/repos/docker/docker/forks",
+            "keys_url": "https://api.github.com/repos/docker/docker/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/docker/docker/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/docker/docker/teams",
+            "hooks_url": "https://api.github.com/repos/docker/docker/hooks",
+            "issue_events_url": "https://api.github.com/repos/docker/docker/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/docker/docker/events",
+            "assignees_url": "https://api.github.com/repos/docker/docker/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/docker/docker/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/docker/docker/tags",
+            "blobs_url": "https://api.github.com/repos/docker/docker/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/docker/docker/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/docker/docker/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/docker/docker/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/docker/docker/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/docker/docker/languages",
+            "stargazers_url": "https://api.github.com/repos/docker/docker/stargazers",
+            "contributors_url": "https://api.github.com/repos/docker/docker/contributors",
+            "subscribers_url": "https://api.github.com/repos/docker/docker/subscribers",
+            "subscription_url": "https://api.github.com/repos/docker/docker/subscription",
+            "commits_url": "https://api.github.com/repos/docker/docker/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/docker/docker/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/docker/docker/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/docker/docker/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/docker/docker/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/docker/docker/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/docker/docker/merges",
+            "archive_url": "https://api.github.com/repos/docker/docker/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/docker/docker/downloads",
+            "issues_url": "https://api.github.com/repos/docker/docker/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/docker/docker/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/docker/docker/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/docker/docker/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/docker/docker/labels{/name}",
+            "releases_url": "https://api.github.com/repos/docker/docker/releases{/id}",
+            "created_at": "2013-01-18T18:10:57Z",
+            "updated_at": "2014-11-17T17:06:29Z",
+            "pushed_at": "2014-11-17T06:10:41Z",
+            "git_url": "git://github.com/docker/docker.git",
+            "ssh_url": "git@github.com:docker/docker.git",
+            "clone_url": "https://github.com/docker/docker.git",
+            "svn_url": "https://github.com/docker/docker",
+            "homepage": "http://www.docker.com",
+            "size": 159807,
+            "stargazers_count": 16700,
+            "watchers_count": 16700,
+            "language": "Go",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": false,
+            "has_pages": false,
+            "forks_count": 3308,
+            "mirror_url": null,
+            "open_issues_count": 909,
+            "forks": 3308,
+            "open_issues": 909,
+            "watchers": 16700,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941"
+          },
+          "html": {
+            "href": "https://github.com/docker/docker/pull/8941"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/docker/docker/issues/8941"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/docker/docker/issues/8941/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/docker/docker/pulls/8941/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/docker/docker/statuses/6d6213ca87c7154bea1a6f7e00b135ce99549d01"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2014-11-17T18:38:23Z",
+    "org": {
+      "id": 5429470,
+      "login": "docker",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/docker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5429470?"
+    }
+  },
+  {
+    "id": "2395724253",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 1984901,
+      "name": "agonzalezro/.dot",
+      "url": "https://api.github.com/repos/agonzalezro/.dot"
+    },
+    "payload": {
+      "push_id": 496827791,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7d2eae3c5ff32946540c735a4beea1541e8b1925",
+      "before": "330c93380b74fa60c065f714d45ef33493d8b082",
+      "commits": [
+        {
+          "sha": "7d2eae3c5ff32946540c735a4beea1541e8b1925",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "No spell check on Quickfix window",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/.dot/commits/7d2eae3c5ff32946540c735a4beea1541e8b1925"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-10T14:47:32Z"
+  },
+  {
+    "id": "2395544131",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 1984901,
+      "name": "agonzalezro/.dot",
+      "url": "https://api.github.com/repos/agonzalezro/.dot"
+    },
+    "payload": {
+      "push_id": 496748207,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "330c93380b74fa60c065f714d45ef33493d8b082",
+      "before": "a5d258e6245acc47a50f39d65e736dc19ed7175d",
+      "commits": [
+        {
+          "sha": "330c93380b74fa60c065f714d45ef33493d8b082",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "vim-go will do the formatting",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/.dot/commits/330c93380b74fa60c065f714d45ef33493d8b082"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2014-11-10T13:13:39Z"
+  }
+]

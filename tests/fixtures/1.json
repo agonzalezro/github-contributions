@@ -1,0 +1,1844 @@
+[
+  {
+    "id": "2558911685",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 565367338,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "bbf3a083b2a08b99a30990f27d86e99d5a64a0e6",
+      "before": "b171ee6b44d86a71772a7910b9809bbf100e6bd3",
+      "commits": [
+        {
+          "sha": "bbf3a083b2a08b99a30990f27d86e99d5a64a0e6",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Typo: PyGrun -> PyGrunn",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/bbf3a083b2a08b99a30990f27d86e99d5a64a0e6"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-04T20:58:31Z"
+  },
+  {
+    "id": "2556323097",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 14284157,
+      "name": "agonzalezro/polo",
+      "url": "https://api.github.com/repos/agonzalezro/polo"
+    },
+    "payload": {
+      "push_id": 564335872,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "86b85d67dba3e6e7a7e46ac89d1fd7f6f8b08a24",
+      "before": "ddd7ff0f229fb65f5f6d4b7804a36413368cad27",
+      "commits": [
+        {
+          "sha": "86b85d67dba3e6e7a7e46ac89d1fd7f6f8b08a24",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Forgot to run go-bindata",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/polo/commits/86b85d67dba3e6e7a7e46ac89d1fd7f6f8b08a24"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-03T23:18:56Z"
+  },
+  {
+    "id": "2554383510",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 21876647,
+      "name": "bradfitz/http2",
+      "url": "https://api.github.com/repos/bradfitz/http2"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2015-02-03T10:29:48Z"
+  },
+  {
+    "id": "2553529473",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 6077987,
+      "name": "agonzalezro/agonzalezro.github.io",
+      "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io"
+    },
+    "payload": {
+      "push_id": 563221027,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "6bb6a405eb7a0239693d202ea74f77112020472f",
+      "before": "705af9aa5c8613b6628c2114492bb6eedcff7939",
+      "commits": [
+        {
+          "sha": "6bb6a405eb7a0239693d202ea74f77112020472f",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Tags back!",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io/commits/6bb6a405eb7a0239693d202ea74f77112020472f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-03T00:45:06Z"
+  },
+  {
+    "id": "2553503220",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 14284157,
+      "name": "agonzalezro/polo",
+      "url": "https://api.github.com/repos/agonzalezro/polo"
+    },
+    "payload": {
+      "push_id": 563211453,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "ddd7ff0f229fb65f5f6d4b7804a36413368cad27",
+      "before": "03e3cc066be068e36e0d65e812b61411818ba460",
+      "commits": [
+        {
+          "sha": "ddd7ff0f229fb65f5f6d4b7804a36413368cad27",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "From \"Travis CI\" to \"CircleCI\"",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/polo/commits/ddd7ff0f229fb65f5f6d4b7804a36413368cad27"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-03T00:30:28Z"
+  },
+  {
+    "id": "2553499424",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 14284157,
+      "name": "agonzalezro/polo",
+      "url": "https://api.github.com/repos/agonzalezro/polo"
+    },
+    "payload": {
+      "push_id": 563209976,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "03e3cc066be068e36e0d65e812b61411818ba460",
+      "before": "277910968fdaa5a3a9ef74aa717aba4a6c7b9b29",
+      "commits": [
+        {
+          "sha": "03e3cc066be068e36e0d65e812b61411818ba460",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "From \"Travis CI\" to \"CircleCI\"",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/polo/commits/03e3cc066be068e36e0d65e812b61411818ba460"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-03T00:28:14Z"
+  },
+  {
+    "id": "2553321967",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 6077987,
+      "name": "agonzalezro/agonzalezro.github.io",
+      "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io"
+    },
+    "payload": {
+      "push_id": 563140425,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/master",
+      "head": "705af9aa5c8613b6628c2114492bb6eedcff7939",
+      "before": "a9484059727522a6ed1e5f41d809c98f06e59250",
+      "commits": [
+        {
+          "sha": "3ca76dc663c29460e8e44103d094e5566859ba8b",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Change the name of the site",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io/commits/3ca76dc663c29460e8e44103d094e5566859ba8b"
+        },
+        {
+          "sha": "705af9aa5c8613b6628c2114492bb6eedcff7939",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "New layout & new theme: readable with inverse bar",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io/commits/705af9aa5c8613b6628c2114492bb6eedcff7939"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-02T22:59:31Z"
+  },
+  {
+    "id": "2553209440",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 14284157,
+      "name": "agonzalezro/polo",
+      "url": "https://api.github.com/repos/agonzalezro/polo"
+    },
+    "payload": {
+      "push_id": 563097304,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "277910968fdaa5a3a9ef74aa717aba4a6c7b9b29",
+      "before": "474b106a6a825bc286cc88a91484b91ea56251d3",
+      "commits": [
+        {
+          "sha": "277910968fdaa5a3a9ef74aa717aba4a6c7b9b29",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Ceil() the number of pages\n\nWe were not doing it and it was causing that for small amount of\narticles and a big number for pagination the result was close to 0 and\nthe index was never getting written.\n\nAlso, the number of pages was being shown on the template even when it\nwas just one. This behaviour was changed.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/polo/commits/277910968fdaa5a3a9ef74aa717aba4a6c7b9b29"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-02T22:13:16Z"
+  },
+  {
+    "id": "2553202800",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 14284157,
+      "name": "agonzalezro/polo",
+      "url": "https://api.github.com/repos/agonzalezro/polo"
+    },
+    "payload": {
+      "push_id": 563094804,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "474b106a6a825bc286cc88a91484b91ea56251d3",
+      "before": "9a751a3ed5d67bdd741a5acf6109b05d34c3a49a",
+      "commits": [
+        {
+          "sha": "474b106a6a825bc286cc88a91484b91ea56251d3",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Ceil() the number of pages\n\nWe were not doing it and it was causing that for small amount of\narticles and a big number for pagination the result was close to 0 and\nthe index was never getting written.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/polo/commits/474b106a6a825bc286cc88a91484b91ea56251d3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-02T22:10:37Z"
+  },
+  {
+    "id": "2551832726",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "push_id": 562559128,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "5d19780e5a84eadb59c406744ebfa68b75a63f19",
+      "before": "912335ee3116c04c04a661c1bdc370a0d8ae5453",
+      "commits": [
+        {
+          "sha": "5d19780e5a84eadb59c406744ebfa68b75a63f19",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "Add link to the Chrome store",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/5d19780e5a84eadb59c406744ebfa68b75a63f19"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-02T13:10:12Z"
+  },
+  {
+    "id": "2551830876",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "push_id": 562558326,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "912335ee3116c04c04a661c1bdc370a0d8ae5453",
+      "before": "4c6ede89cee7d2aef75ce5c4cb94d9414f2e1ce3",
+      "commits": [
+        {
+          "sha": "912335ee3116c04c04a661c1bdc370a0d8ae5453",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "Update README.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/912335ee3116c04c04a661c1bdc370a0d8ae5453"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-02T13:09:13Z"
+  },
+  {
+    "id": "2551707347",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 18100746,
+      "name": "agonzalezro/cartodb-python",
+      "url": "https://api.github.com/repos/agonzalezro/cartodb-python"
+    },
+    "payload": {
+      "ref": "unused",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-02-02T12:02:51Z"
+  },
+  {
+    "id": "2551683789",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 1631632,
+      "name": "Vizzuality/cartodb-python",
+      "url": "https://api.github.com/repos/Vizzuality/cartodb-python"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/Vizzuality/cartodb-python/issues/8",
+        "labels_url": "https://api.github.com/repos/Vizzuality/cartodb-python/issues/8/labels{/name}",
+        "comments_url": "https://api.github.com/repos/Vizzuality/cartodb-python/issues/8/comments",
+        "events_url": "https://api.github.com/repos/Vizzuality/cartodb-python/issues/8/events",
+        "html_url": "https://github.com/Vizzuality/cartodb-python/pull/8",
+        "id": 35738698,
+        "number": 8,
+        "title": "Fix typos on README & remove unused imports",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2014-06-14T23:13:52Z",
+        "updated_at": "2015-02-02T11:49:24Z",
+        "closed_at": null,
+        "pull_request": {
+          "url": "https://api.github.com/repos/Vizzuality/cartodb-python/pulls/8",
+          "html_url": "https://github.com/Vizzuality/cartodb-python/pull/8",
+          "diff_url": "https://github.com/Vizzuality/cartodb-python/pull/8.diff",
+          "patch_url": "https://github.com/Vizzuality/cartodb-python/pull/8.patch"
+        },
+        "body": "- The `README` file was showing bad indented code + it was using a variable user that was not really needed.\r\n- The `cartodb.py` was importing several unused modules."
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/Vizzuality/cartodb-python/issues/comments/72444354",
+        "html_url": "https://github.com/Vizzuality/cartodb-python/pull/8#issuecomment-72444354",
+        "issue_url": "https://api.github.com/repos/Vizzuality/cartodb-python/issues/8",
+        "id": 72444354,
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-02-02T11:49:24Z",
+        "updated_at": "2015-02-02T11:49:24Z",
+        "body": "Old PRs make this cat sad:\r\n\r\n![](http://ghcorps.org/wp-content/uploads//2013/01/Sad-Cat.jpg)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-02-02T11:49:25Z",
+    "org": {
+      "id": 305994,
+      "login": "Vizzuality",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/Vizzuality",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305994?"
+    }
+  },
+  {
+    "id": "2550413034",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "push_id": 561953715,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "4c6ede89cee7d2aef75ce5c4cb94d9414f2e1ce3",
+      "before": "c1b45a75c50d96ec2bd7f6de5a443e1566caf96c",
+      "commits": [
+        {
+          "sha": "4c6ede89cee7d2aef75ce5c4cb94d9414f2e1ce3",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "Add Jolly Icons link\n\nI've checked the URL for the icon and I found the original author :)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/4c6ede89cee7d2aef75ce5c4cb94d9414f2e1ce3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-01T14:42:28Z"
+  },
+  {
+    "id": "2550394794",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "push_id": 561945483,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "c1b45a75c50d96ec2bd7f6de5a443e1566caf96c",
+      "before": "42c6e8fe9dbf295810bb85aeed1e536380566e93",
+      "commits": [
+        {
+          "sha": "c1b45a75c50d96ec2bd7f6de5a443e1566caf96c",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Same screenshot here than the one in the store",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/c1b45a75c50d96ec2bd7f6de5a443e1566caf96c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-02-01T14:15:54Z"
+  },
+  {
+    "id": "2549575158",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "push_id": 561572642,
+      "size": 4,
+      "distinct_size": 4,
+      "ref": "refs/heads/master",
+      "head": "42c6e8fe9dbf295810bb85aeed1e536380566e93",
+      "before": "4c5df040b71cf18d6661f6776dbe2ab35ca6d6f7",
+      "commits": [
+        {
+          "sha": "6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b",
+          "author": {
+            "email": "anvalro@gmail.com",
+            "name": "Antonio Valverde"
+          },
+          "message": "Improved JS code architecture in the extension and added a random color generator. Removed jQuery dependency.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b"
+        },
+        {
+          "sha": "a950853a42fcd865439a495382d65e1636b86acf",
+          "author": {
+            "email": "anvalro@gmail.com",
+            "name": "Antonio Valverde"
+          },
+          "message": "Removed console.log statement and improve some methods",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/a950853a42fcd865439a495382d65e1636b86acf"
+        },
+        {
+          "sha": "7f9dc1903658aa6ed2cee45b40a1c423697b5e77",
+          "author": {
+            "email": "anvalro@gmail.com",
+            "name": "Antonio Valverde"
+          },
+          "message": "Rewrite popup.js to work without jQuery",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/7f9dc1903658aa6ed2cee45b40a1c423697b5e77"
+        },
+        {
+          "sha": "42c6e8fe9dbf295810bb85aeed1e536380566e93",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "Merge pull request #2 from valgreens/new-architecture\n\nImproved JS code architecture in the extension",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/commits/42c6e8fe9dbf295810bb85aeed1e536380566e93"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-31T15:07:18Z"
+  },
+  {
+    "id": "2549575156",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 2,
+      "pull_request": {
+        "url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2",
+        "id": 28121837,
+        "html_url": "https://github.com/agonzalezro/github-colorify/pull/2",
+        "diff_url": "https://github.com/agonzalezro/github-colorify/pull/2.diff",
+        "patch_url": "https://github.com/agonzalezro/github-colorify/pull/2.patch",
+        "issue_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2",
+        "number": 2,
+        "state": "closed",
+        "locked": false,
+        "title": "Improved JS code architecture in the extension",
+        "user": {
+          "login": "valgreens",
+          "id": 903263,
+          "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/valgreens",
+          "html_url": "https://github.com/valgreens",
+          "followers_url": "https://api.github.com/users/valgreens/followers",
+          "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+          "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+          "organizations_url": "https://api.github.com/users/valgreens/orgs",
+          "repos_url": "https://api.github.com/users/valgreens/repos",
+          "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/valgreens/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "Improved JS code architecture in the extension and also added a random color generator for each project. Removed jQuery dependency.",
+        "created_at": "2015-01-27T16:21:02Z",
+        "updated_at": "2015-01-31T15:07:18Z",
+        "closed_at": "2015-01-31T15:07:18Z",
+        "merged_at": "2015-01-31T15:07:18Z",
+        "merge_commit_sha": "2174ec8ed94dda046c37d5ca583cb3f653942b21",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/commits",
+        "review_comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/comments",
+        "review_comment_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/comments",
+        "statuses_url": "https://api.github.com/repos/agonzalezro/github-colorify/statuses/7f9dc1903658aa6ed2cee45b40a1c423697b5e77",
+        "head": {
+          "label": "valgreens:new-architecture",
+          "ref": "new-architecture",
+          "sha": "7f9dc1903658aa6ed2cee45b40a1c423697b5e77",
+          "user": {
+            "login": "valgreens",
+            "id": 903263,
+            "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/valgreens",
+            "html_url": "https://github.com/valgreens",
+            "followers_url": "https://api.github.com/users/valgreens/followers",
+            "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+            "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+            "organizations_url": "https://api.github.com/users/valgreens/orgs",
+            "repos_url": "https://api.github.com/users/valgreens/repos",
+            "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/valgreens/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 29519496,
+            "name": "github-colorify",
+            "full_name": "valgreens/github-colorify",
+            "owner": {
+              "login": "valgreens",
+              "id": 903263,
+              "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/valgreens",
+              "html_url": "https://github.com/valgreens",
+              "followers_url": "https://api.github.com/users/valgreens/followers",
+              "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+              "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+              "organizations_url": "https://api.github.com/users/valgreens/orgs",
+              "repos_url": "https://api.github.com/users/valgreens/repos",
+              "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/valgreens/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/valgreens/github-colorify",
+            "description": "Add different colors to the GitHub timeline rows depending on the project",
+            "fork": true,
+            "url": "https://api.github.com/repos/valgreens/github-colorify",
+            "forks_url": "https://api.github.com/repos/valgreens/github-colorify/forks",
+            "keys_url": "https://api.github.com/repos/valgreens/github-colorify/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/valgreens/github-colorify/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/valgreens/github-colorify/teams",
+            "hooks_url": "https://api.github.com/repos/valgreens/github-colorify/hooks",
+            "issue_events_url": "https://api.github.com/repos/valgreens/github-colorify/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/valgreens/github-colorify/events",
+            "assignees_url": "https://api.github.com/repos/valgreens/github-colorify/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/valgreens/github-colorify/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/valgreens/github-colorify/tags",
+            "blobs_url": "https://api.github.com/repos/valgreens/github-colorify/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/valgreens/github-colorify/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/valgreens/github-colorify/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/valgreens/github-colorify/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/valgreens/github-colorify/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/valgreens/github-colorify/languages",
+            "stargazers_url": "https://api.github.com/repos/valgreens/github-colorify/stargazers",
+            "contributors_url": "https://api.github.com/repos/valgreens/github-colorify/contributors",
+            "subscribers_url": "https://api.github.com/repos/valgreens/github-colorify/subscribers",
+            "subscription_url": "https://api.github.com/repos/valgreens/github-colorify/subscription",
+            "commits_url": "https://api.github.com/repos/valgreens/github-colorify/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/valgreens/github-colorify/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/valgreens/github-colorify/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/valgreens/github-colorify/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/valgreens/github-colorify/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/valgreens/github-colorify/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/valgreens/github-colorify/merges",
+            "archive_url": "https://api.github.com/repos/valgreens/github-colorify/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/valgreens/github-colorify/downloads",
+            "issues_url": "https://api.github.com/repos/valgreens/github-colorify/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/valgreens/github-colorify/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/valgreens/github-colorify/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/valgreens/github-colorify/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/valgreens/github-colorify/labels{/name}",
+            "releases_url": "https://api.github.com/repos/valgreens/github-colorify/releases{/id}",
+            "created_at": "2015-01-20T08:26:23Z",
+            "updated_at": "2015-01-20T08:26:24Z",
+            "pushed_at": "2015-01-31T09:11:44Z",
+            "git_url": "git://github.com/valgreens/github-colorify.git",
+            "ssh_url": "git@github.com:valgreens/github-colorify.git",
+            "clone_url": "https://github.com/valgreens/github-colorify.git",
+            "svn_url": "https://github.com/valgreens/github-colorify",
+            "homepage": null,
+            "size": 268,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "agonzalezro:master",
+          "ref": "master",
+          "sha": "4c5df040b71cf18d6661f6776dbe2ab35ca6d6f7",
+          "user": {
+            "login": "agonzalezro",
+            "id": 205176,
+            "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/agonzalezro",
+            "html_url": "https://github.com/agonzalezro",
+            "followers_url": "https://api.github.com/users/agonzalezro/followers",
+            "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+            "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+            "repos_url": "https://api.github.com/users/agonzalezro/repos",
+            "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 29432016,
+            "name": "github-colorify",
+            "full_name": "agonzalezro/github-colorify",
+            "owner": {
+              "login": "agonzalezro",
+              "id": 205176,
+              "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/agonzalezro",
+              "html_url": "https://github.com/agonzalezro",
+              "followers_url": "https://api.github.com/users/agonzalezro/followers",
+              "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+              "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+              "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+              "repos_url": "https://api.github.com/users/agonzalezro/repos",
+              "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/agonzalezro/github-colorify",
+            "description": "Add different colors to the GitHub timeline rows depending on the project",
+            "fork": false,
+            "url": "https://api.github.com/repos/agonzalezro/github-colorify",
+            "forks_url": "https://api.github.com/repos/agonzalezro/github-colorify/forks",
+            "keys_url": "https://api.github.com/repos/agonzalezro/github-colorify/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/agonzalezro/github-colorify/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/agonzalezro/github-colorify/teams",
+            "hooks_url": "https://api.github.com/repos/agonzalezro/github-colorify/hooks",
+            "issue_events_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/agonzalezro/github-colorify/events",
+            "assignees_url": "https://api.github.com/repos/agonzalezro/github-colorify/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/agonzalezro/github-colorify/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/agonzalezro/github-colorify/tags",
+            "blobs_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/agonzalezro/github-colorify/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/agonzalezro/github-colorify/languages",
+            "stargazers_url": "https://api.github.com/repos/agonzalezro/github-colorify/stargazers",
+            "contributors_url": "https://api.github.com/repos/agonzalezro/github-colorify/contributors",
+            "subscribers_url": "https://api.github.com/repos/agonzalezro/github-colorify/subscribers",
+            "subscription_url": "https://api.github.com/repos/agonzalezro/github-colorify/subscription",
+            "commits_url": "https://api.github.com/repos/agonzalezro/github-colorify/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/agonzalezro/github-colorify/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/agonzalezro/github-colorify/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/agonzalezro/github-colorify/merges",
+            "archive_url": "https://api.github.com/repos/agonzalezro/github-colorify/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/agonzalezro/github-colorify/downloads",
+            "issues_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/agonzalezro/github-colorify/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/agonzalezro/github-colorify/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/agonzalezro/github-colorify/labels{/name}",
+            "releases_url": "https://api.github.com/repos/agonzalezro/github-colorify/releases{/id}",
+            "created_at": "2015-01-18T16:22:11Z",
+            "updated_at": "2015-01-20T20:44:25Z",
+            "pushed_at": "2015-01-31T15:07:18Z",
+            "git_url": "git://github.com/agonzalezro/github-colorify.git",
+            "ssh_url": "git@github.com:agonzalezro/github-colorify.git",
+            "clone_url": "https://github.com/agonzalezro/github-colorify.git",
+            "svn_url": "https://github.com/agonzalezro/github-colorify",
+            "homepage": null,
+            "size": 368,
+            "stargazers_count": 2,
+            "watchers_count": 2,
+            "language": "JavaScript",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 2,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 2,
+            "open_issues": 0,
+            "watchers": 2,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2"
+          },
+          "html": {
+            "href": "https://github.com/agonzalezro/github-colorify/pull/2"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/statuses/7f9dc1903658aa6ed2cee45b40a1c423697b5e77"
+          }
+        },
+        "merged": true,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 2,
+        "review_comments": 8,
+        "commits": 3,
+        "additions": 77,
+        "deletions": 68,
+        "changed_files": 6
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-31T15:07:18Z"
+  },
+  {
+    "id": "2549575132",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2",
+        "labels_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/labels{/name}",
+        "comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/comments",
+        "events_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/events",
+        "html_url": "https://github.com/agonzalezro/github-colorify/pull/2",
+        "id": 55638928,
+        "number": 2,
+        "title": "Improved JS code architecture in the extension",
+        "user": {
+          "login": "valgreens",
+          "id": 903263,
+          "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/valgreens",
+          "html_url": "https://github.com/valgreens",
+          "followers_url": "https://api.github.com/users/valgreens/followers",
+          "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+          "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+          "organizations_url": "https://api.github.com/users/valgreens/orgs",
+          "repos_url": "https://api.github.com/users/valgreens/repos",
+          "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/valgreens/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 2,
+        "created_at": "2015-01-27T16:21:02Z",
+        "updated_at": "2015-01-31T15:07:15Z",
+        "closed_at": null,
+        "pull_request": {
+          "url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2",
+          "html_url": "https://github.com/agonzalezro/github-colorify/pull/2",
+          "diff_url": "https://github.com/agonzalezro/github-colorify/pull/2.diff",
+          "patch_url": "https://github.com/agonzalezro/github-colorify/pull/2.patch"
+        },
+        "body": "Improved JS code architecture in the extension and also added a random color generator for each project. Removed jQuery dependency."
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/comments/72321176",
+        "html_url": "https://github.com/agonzalezro/github-colorify/pull/2#issuecomment-72321176",
+        "issue_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2",
+        "id": 72321176,
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-01-31T15:07:15Z",
+        "updated_at": "2015-01-31T15:07:15Z",
+        "body": "Nice one! I really like the changes, and the style is much better now as we discussed.\r\n\r\nI continue not being sure that the distinction between projects is clear, but let's start with something!"
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-31T15:07:15Z"
+  },
+  {
+    "id": "2549571481",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 27543298,
+      "name": "phalt/swapi",
+      "url": "https://api.github.com/repos/phalt/swapi"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2015-01-31T15:01:49Z"
+  },
+  {
+    "id": "2545549567",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 559922332,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "b171ee6b44d86a71772a7910b9809bbf100e6bd3",
+      "before": "73d9e39975b5f008713e49cab183baa66637e187",
+      "commits": [
+        {
+          "sha": "b171ee6b44d86a71772a7910b9809bbf100e6bd3",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Add hbox to an unexpected multiline",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/b171ee6b44d86a71772a7910b9809bbf100e6bd3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T17:49:40Z"
+  },
+  {
+    "id": "2545442390",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 7137821,
+      "name": "cloudtools/troposphere",
+      "url": "https://api.github.com/repos/cloudtools/troposphere"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2015-01-29T17:09:52Z",
+    "org": {
+      "id": 3028687,
+      "login": "cloudtools",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/cloudtools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3028687?"
+    }
+  },
+  {
+    "id": "2544908480",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 6077987,
+      "name": "agonzalezro/agonzalezro.github.io",
+      "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io"
+    },
+    "payload": {
+      "push_id": 559662714,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "a9484059727522a6ed1e5f41d809c98f06e59250",
+      "before": "fc5f71d2e7b4078bd88ccffae835db2d6bac3b9d",
+      "commits": [
+        {
+          "sha": "a9484059727522a6ed1e5f41d809c98f06e59250",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "New About & Contact page",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/agonzalezro.github.io/commits/a9484059727522a6ed1e5f41d809c98f06e59250"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T13:56:10Z"
+  },
+  {
+    "id": "2544821553",
+    "type": "PullRequestReviewCommentEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29432016,
+      "name": "agonzalezro/github-colorify",
+      "url": "https://api.github.com/repos/agonzalezro/github-colorify"
+    },
+    "payload": {
+      "action": "created",
+      "comment": {
+        "url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/comments/23766134",
+        "id": 23766134,
+        "diff_hunk": "@@ -1,53 +1,63 @@\n-BGCOLORS = [\n-  \"#e1f6f2\", \"#e5f2fa\", \"#f2eaf6\", \"#fdf7e0\", \"#fce8e6\", \"#f6f7f8\"\n-]\n-\n-function colorify() {\n-  var previousColor;\n-\n-  $(\".alert\").each(function(_, e) {\n-    var project = getProjectName(e);\n-    var color = getColorForProject(project, previousColor);\n-    previousColor = color;\n-\n-    e.style.backgroundColor = color;\n-    e.style.paddingTop = \"5px\";\n-    e.style.border = \"5px solid \" + color;\n-  });\n-}\n-\n-function getProjectName(e) {\n-  name = $(e).find('.title > a:last').text().split('#')[0];\n-  return name.split('@')[0];\n-}\n-\n-function getColorForProject(project, previousColor) {\n-  if (!(project in colors)) {\n-    var color = BGCOLORS[Math.floor(Math.random() * BGCOLORS.length)];\n-    if (color == previousColor) {\n-      return getColorForProject(project, previousColor);\n+(function (document, chrome) {\n+\n+  var colorify = {};\n+\n+  colorify.init = function () {\n+    var self = this;\n+\n+    chrome.storage.sync.get('colors', function(result) {\n+      if (Object.keys.call(null, result).length !== 0) {\n+        self.colors = result.colors;\n+      } else {\n+        self.colors = {};\n+      }\n+    });\n+\n+    document.onreadystatechange = function () {\n+      if (document.readyState == \"complete\") {\n+        self.paint();\n+        document.querySelector('.js-events-pagination').onclick = function () {\n+          setTimeout(function () {\n+            self.paint();\n+          }, 1000);",
+        "path": "colorify.js",
+        "position": 50,
+        "original_position": 50,
+        "commit_id": "6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b",
+        "original_commit_id": "6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b",
+        "user": {
+          "login": "agonzalezro",
+          "id": 205176,
+          "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/agonzalezro",
+          "html_url": "https://github.com/agonzalezro",
+          "followers_url": "https://api.github.com/users/agonzalezro/followers",
+          "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+          "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+          "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+          "repos_url": "https://api.github.com/users/agonzalezro/repos",
+          "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "My bad. I was reading this as a `setInterval` and it didn't make a lot of sense.",
+        "created_at": "2015-01-29T13:15:49Z",
+        "updated_at": "2015-01-29T13:15:49Z",
+        "html_url": "https://github.com/agonzalezro/github-colorify/pull/2#discussion_r23766134",
+        "pull_request_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2",
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/comments/23766134"
+          },
+          "html": {
+            "href": "https://github.com/agonzalezro/github-colorify/pull/2#discussion_r23766134"
+          },
+          "pull_request": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2"
+          }
+        }
+      },
+      "pull_request": {
+        "url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2",
+        "id": 28121837,
+        "html_url": "https://github.com/agonzalezro/github-colorify/pull/2",
+        "diff_url": "https://github.com/agonzalezro/github-colorify/pull/2.diff",
+        "patch_url": "https://github.com/agonzalezro/github-colorify/pull/2.patch",
+        "issue_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2",
+        "number": 2,
+        "state": "open",
+        "locked": false,
+        "title": "Improved JS code architecture in the extension",
+        "user": {
+          "login": "valgreens",
+          "id": 903263,
+          "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/valgreens",
+          "html_url": "https://github.com/valgreens",
+          "followers_url": "https://api.github.com/users/valgreens/followers",
+          "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+          "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+          "organizations_url": "https://api.github.com/users/valgreens/orgs",
+          "repos_url": "https://api.github.com/users/valgreens/repos",
+          "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/valgreens/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "Improved JS code architecture in the extension and also added a random color generator for each project. Removed jQuery dependency.",
+        "created_at": "2015-01-27T16:21:02Z",
+        "updated_at": "2015-01-29T13:15:49Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": "f5822988a1faba2404f07f61959f9c2360348e42",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/commits",
+        "review_comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/comments",
+        "review_comment_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/comments",
+        "statuses_url": "https://api.github.com/repos/agonzalezro/github-colorify/statuses/6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b",
+        "head": {
+          "label": "valgreens:new-architecture",
+          "ref": "new-architecture",
+          "sha": "6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b",
+          "user": {
+            "login": "valgreens",
+            "id": 903263,
+            "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/valgreens",
+            "html_url": "https://github.com/valgreens",
+            "followers_url": "https://api.github.com/users/valgreens/followers",
+            "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+            "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+            "organizations_url": "https://api.github.com/users/valgreens/orgs",
+            "repos_url": "https://api.github.com/users/valgreens/repos",
+            "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/valgreens/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 29519496,
+            "name": "github-colorify",
+            "full_name": "valgreens/github-colorify",
+            "owner": {
+              "login": "valgreens",
+              "id": 903263,
+              "avatar_url": "https://avatars.githubusercontent.com/u/903263?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/valgreens",
+              "html_url": "https://github.com/valgreens",
+              "followers_url": "https://api.github.com/users/valgreens/followers",
+              "following_url": "https://api.github.com/users/valgreens/following{/other_user}",
+              "gists_url": "https://api.github.com/users/valgreens/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/valgreens/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/valgreens/subscriptions",
+              "organizations_url": "https://api.github.com/users/valgreens/orgs",
+              "repos_url": "https://api.github.com/users/valgreens/repos",
+              "events_url": "https://api.github.com/users/valgreens/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/valgreens/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/valgreens/github-colorify",
+            "description": "Add different colors to the GitHub timeline rows depending on the project",
+            "fork": true,
+            "url": "https://api.github.com/repos/valgreens/github-colorify",
+            "forks_url": "https://api.github.com/repos/valgreens/github-colorify/forks",
+            "keys_url": "https://api.github.com/repos/valgreens/github-colorify/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/valgreens/github-colorify/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/valgreens/github-colorify/teams",
+            "hooks_url": "https://api.github.com/repos/valgreens/github-colorify/hooks",
+            "issue_events_url": "https://api.github.com/repos/valgreens/github-colorify/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/valgreens/github-colorify/events",
+            "assignees_url": "https://api.github.com/repos/valgreens/github-colorify/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/valgreens/github-colorify/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/valgreens/github-colorify/tags",
+            "blobs_url": "https://api.github.com/repos/valgreens/github-colorify/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/valgreens/github-colorify/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/valgreens/github-colorify/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/valgreens/github-colorify/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/valgreens/github-colorify/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/valgreens/github-colorify/languages",
+            "stargazers_url": "https://api.github.com/repos/valgreens/github-colorify/stargazers",
+            "contributors_url": "https://api.github.com/repos/valgreens/github-colorify/contributors",
+            "subscribers_url": "https://api.github.com/repos/valgreens/github-colorify/subscribers",
+            "subscription_url": "https://api.github.com/repos/valgreens/github-colorify/subscription",
+            "commits_url": "https://api.github.com/repos/valgreens/github-colorify/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/valgreens/github-colorify/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/valgreens/github-colorify/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/valgreens/github-colorify/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/valgreens/github-colorify/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/valgreens/github-colorify/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/valgreens/github-colorify/merges",
+            "archive_url": "https://api.github.com/repos/valgreens/github-colorify/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/valgreens/github-colorify/downloads",
+            "issues_url": "https://api.github.com/repos/valgreens/github-colorify/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/valgreens/github-colorify/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/valgreens/github-colorify/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/valgreens/github-colorify/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/valgreens/github-colorify/labels{/name}",
+            "releases_url": "https://api.github.com/repos/valgreens/github-colorify/releases{/id}",
+            "created_at": "2015-01-20T08:26:23Z",
+            "updated_at": "2015-01-20T08:26:24Z",
+            "pushed_at": "2015-01-27T16:19:18Z",
+            "git_url": "git://github.com/valgreens/github-colorify.git",
+            "ssh_url": "git@github.com:valgreens/github-colorify.git",
+            "clone_url": "https://github.com/valgreens/github-colorify.git",
+            "svn_url": "https://github.com/valgreens/github-colorify",
+            "homepage": null,
+            "size": 268,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "agonzalezro:master",
+          "ref": "master",
+          "sha": "4c5df040b71cf18d6661f6776dbe2ab35ca6d6f7",
+          "user": {
+            "login": "agonzalezro",
+            "id": 205176,
+            "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/agonzalezro",
+            "html_url": "https://github.com/agonzalezro",
+            "followers_url": "https://api.github.com/users/agonzalezro/followers",
+            "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+            "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+            "repos_url": "https://api.github.com/users/agonzalezro/repos",
+            "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 29432016,
+            "name": "github-colorify",
+            "full_name": "agonzalezro/github-colorify",
+            "owner": {
+              "login": "agonzalezro",
+              "id": 205176,
+              "avatar_url": "https://avatars.githubusercontent.com/u/205176?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/agonzalezro",
+              "html_url": "https://github.com/agonzalezro",
+              "followers_url": "https://api.github.com/users/agonzalezro/followers",
+              "following_url": "https://api.github.com/users/agonzalezro/following{/other_user}",
+              "gists_url": "https://api.github.com/users/agonzalezro/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/agonzalezro/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/agonzalezro/subscriptions",
+              "organizations_url": "https://api.github.com/users/agonzalezro/orgs",
+              "repos_url": "https://api.github.com/users/agonzalezro/repos",
+              "events_url": "https://api.github.com/users/agonzalezro/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/agonzalezro/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/agonzalezro/github-colorify",
+            "description": "Add different colors to the GitHub timeline rows depending on the project",
+            "fork": false,
+            "url": "https://api.github.com/repos/agonzalezro/github-colorify",
+            "forks_url": "https://api.github.com/repos/agonzalezro/github-colorify/forks",
+            "keys_url": "https://api.github.com/repos/agonzalezro/github-colorify/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/agonzalezro/github-colorify/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/agonzalezro/github-colorify/teams",
+            "hooks_url": "https://api.github.com/repos/agonzalezro/github-colorify/hooks",
+            "issue_events_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/agonzalezro/github-colorify/events",
+            "assignees_url": "https://api.github.com/repos/agonzalezro/github-colorify/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/agonzalezro/github-colorify/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/agonzalezro/github-colorify/tags",
+            "blobs_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/agonzalezro/github-colorify/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/agonzalezro/github-colorify/languages",
+            "stargazers_url": "https://api.github.com/repos/agonzalezro/github-colorify/stargazers",
+            "contributors_url": "https://api.github.com/repos/agonzalezro/github-colorify/contributors",
+            "subscribers_url": "https://api.github.com/repos/agonzalezro/github-colorify/subscribers",
+            "subscription_url": "https://api.github.com/repos/agonzalezro/github-colorify/subscription",
+            "commits_url": "https://api.github.com/repos/agonzalezro/github-colorify/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/agonzalezro/github-colorify/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/agonzalezro/github-colorify/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/agonzalezro/github-colorify/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/agonzalezro/github-colorify/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/agonzalezro/github-colorify/merges",
+            "archive_url": "https://api.github.com/repos/agonzalezro/github-colorify/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/agonzalezro/github-colorify/downloads",
+            "issues_url": "https://api.github.com/repos/agonzalezro/github-colorify/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/agonzalezro/github-colorify/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/agonzalezro/github-colorify/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/agonzalezro/github-colorify/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/agonzalezro/github-colorify/labels{/name}",
+            "releases_url": "https://api.github.com/repos/agonzalezro/github-colorify/releases{/id}",
+            "created_at": "2015-01-18T16:22:11Z",
+            "updated_at": "2015-01-20T20:44:25Z",
+            "pushed_at": "2015-01-20T20:44:24Z",
+            "git_url": "git://github.com/agonzalezro/github-colorify.git",
+            "ssh_url": "git@github.com:agonzalezro/github-colorify.git",
+            "clone_url": "https://github.com/agonzalezro/github-colorify.git",
+            "svn_url": "https://github.com/agonzalezro/github-colorify",
+            "homepage": null,
+            "size": 368,
+            "stargazers_count": 2,
+            "watchers_count": 2,
+            "language": "JavaScript",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 2,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 2,
+            "open_issues": 1,
+            "watchers": 2,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2"
+          },
+          "html": {
+            "href": "https://github.com/agonzalezro/github-colorify/pull/2"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/issues/2/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/pulls/2/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/agonzalezro/github-colorify/statuses/6163f3a44bd4b04bcf7a55a9a0e0cf009f57a12b"
+          }
+        }
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-29T13:15:49Z"
+  },
+  {
+    "id": "2544417257",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 559455674,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "73d9e39975b5f008713e49cab183baa66637e187",
+      "before": "b832fd42b9ff62ff006c097beb42f2d228732710",
+      "commits": [
+        {
+          "sha": "73d9e39975b5f008713e49cab183baa66637e187",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Yes, I've changed the LICENSE\n\nPlease, read and accept the new terms.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/73d9e39975b5f008713e49cab183baa66637e187"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T09:45:08Z"
+  },
+  {
+    "id": "2543726167",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 559173614,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "b832fd42b9ff62ff006c097beb42f2d228732710",
+      "before": "1a3cc848decf8711e010a783839385c0379db691",
+      "commits": [
+        {
+          "sha": "b832fd42b9ff62ff006c097beb42f2d228732710",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Alexandre González"
+          },
+          "message": "Add a missed comma to the readme",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/b832fd42b9ff62ff006c097beb42f2d228732710"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T01:14:08Z"
+  },
+  {
+    "id": "2543712958",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 559168745,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "1a3cc848decf8711e010a783839385c0379db691",
+      "before": "7fd370d1f62a8aa99be1a6f0faf21f8555da7f01",
+      "commits": [
+        {
+          "sha": "1a3cc848decf8711e010a783839385c0379db691",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "Use the docker image from the hub",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/1a3cc848decf8711e010a783839385c0379db691"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T01:06:18Z"
+  },
+  {
+    "id": "2543680917",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29996068,
+      "name": "agonzalezro/docker-pdflatex",
+      "url": "https://api.github.com/repos/agonzalezro/docker-pdflatex"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Docker images with LaTeX and some extras",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-29T00:46:41Z"
+  },
+  {
+    "id": "2543678433",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 29996068,
+      "name": "agonzalezro/docker-pdflatex",
+      "url": "https://api.github.com/repos/agonzalezro/docker-pdflatex"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "Docker images with LaTeX and some extras",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-29T00:45:18Z"
+  },
+  {
+    "id": "2543673945",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 559152986,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7fd370d1f62a8aa99be1a6f0faf21f8555da7f01",
+      "before": "7b44b57a8f05bb6241d7780fbb4d1dabac1acad2",
+      "commits": [
+        {
+          "sha": "7fd370d1f62a8aa99be1a6f0faf21f8555da7f01",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "From CMD to ENTRYPOINT",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/7fd370d1f62a8aa99be1a6f0faf21f8555da7f01"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T00:42:31Z"
+  },
+  {
+    "id": "2543654898",
+    "type": "PushEvent",
+    "actor": {
+      "id": 205176,
+      "login": "agonzalezro",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/agonzalezro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205176?"
+    },
+    "repo": {
+      "id": 943688,
+      "name": "agonzalezro/Curriculum-Vitae",
+      "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae"
+    },
+    "payload": {
+      "push_id": 559145377,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7b44b57a8f05bb6241d7780fbb4d1dabac1acad2",
+      "before": "b71206c0f275029a16850f455f2f6775d768df52",
+      "commits": [
+        {
+          "sha": "7b44b57a8f05bb6241d7780fbb4d1dabac1acad2",
+          "author": {
+            "email": "agonzalezro@gmail.com",
+            "name": "Álex González"
+          },
+          "message": "From CMD to ENTRYPOINT",
+          "distinct": true,
+          "url": "https://api.github.com/repos/agonzalezro/Curriculum-Vitae/commits/7b44b57a8f05bb6241d7780fbb4d1dabac1acad2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-29T00:31:19Z"
+  }
+]
