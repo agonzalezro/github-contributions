@@ -4,36 +4,74 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"net/http"
+	"net/url"
+	"regexp"
 	"sort"
+	"strconv"
 	"sync"
 	"time"
 
 	"github.com/revel/revel"
+	"github.com/russross/blackfriday"
 )
 
 type App struct {
 	*revel.Controller
 }
 
+type SearchResults struct {
+	TotalCount int `json:"total_count"`
+
+	Items []SearchResultsItem
+}
+
+type SearchResultsItem struct {
+	Title     string
+	Body      string
+	State     string
+	CreatedAt string `json:"created_at"`
+
+	PullRequest struct {
+		HTMLURL string `json:"html_url"`
+	} `json:"pull_request"`
+}
+
 type Contributions []Contribution
 
 type Contribution struct {
-	Type string `json:"type"`
-	Repo struct {
-		Name string `json:"name"`
-		URL  string `json:"url"`
-	} `json:"repo"`
-	Payload struct {
-		Action      string `json:"action"`
-		PullRequest struct {
-			HTMLURL   string `json:"html_url"`
-			Title     string `json:"title"`
-			Body      string `json:"body"`
-			CreatedAt string `json:"created_at"`
-		} `json:"pull_request"`
-	} `json:"payload"`
+	URL     string `json:"url"`
+	Project string `json:"project"`
+	Title   string `json:"title"`
+	Body    string `json:"body"`
+	Date    string `json:"date"`
+	Closed  bool   `json:"closed"`
+}
+
+func NewContributionFromSearchResponse(i SearchResultsItem) Contribution {
+	url := i.PullRequest.HTMLURL
+
+	projectName := func(url string) string {
+		re := regexp.MustCompile("github.com/(.+)/pull/")
+
+		matches := re.FindStringSubmatch(url)
+		if len(matches) > 1 {
+			return matches[1]
+		}
+		return ""
+	}(url)
+
+	body := string(
+		blackfriday.MarkdownBasic([]byte(i.Body)))
+
+	return Contribution{
+		URL:     url,
+		Project: projectName,
+		Title:   i.Title,
+		Body:    body,
+		Date:    i.CreatedAt,
+		Closed:  i.State == "closed",
+	}
 }
 
 func (cs Contributions) Len() int {
@@ -43,12 +81,12 @@ func (cs Contributions) Len() int {
 func (cs Contributions) Less(i, j int) bool {
 	layout := "2006-01-02T15:04:05Z"
 
-	iDate, err := time.Parse(layout, cs[i].Payload.PullRequest.CreatedAt)
+	iDate, err := time.Parse(layout, cs[i].Date)
 	if err != nil {
 		iDate = time.Now()
 	}
 
-	jDate, err := time.Parse(layout, cs[j].Payload.PullRequest.CreatedAt)
+	jDate, err := time.Parse(layout, cs[j].Date)
 	if err != nil {
 		jDate = time.Now()
 	}
@@ -61,24 +99,60 @@ func (cs Contributions) Swap(i, j int) {
 }
 
 func getUrl(username string, page int) string {
-	url := fmt.Sprintf("https://api.github.com/users/%s/events", username)
-	if page > 1 {
-		url += fmt.Sprintf("?page=%d", page)
+	values := url.Values{}
+	for k, v := range map[string]string{
+		"q":        fmt.Sprintf("author:%s type:pr", username),
+		"per_page": "100",
+		"page":     string(page),
+	} {
+		values.Set(k, v)
 	}
-	return url
+
+	return fmt.Sprintf("https://api.github.com/search/issues?%s", values.Encode())
+}
+
+func getNumberOfPages(username string) (int, error) {
+	url := getUrl(username, 1)
+
+	client := &http.Client{}
+	req, err := http.NewRequest("HEAD", url, nil)
+	if err != nil {
+		return -1, err
+	}
+	resp, err := client.Do(req)
+	if err != nil {
+		return -1, err
+	}
+	defer resp.Body.Close()
+
+	link := resp.Header.Get("Link")
+	if link != "" {
+		re := regexp.MustCompile(`page=(\d+).*>; rel="last"`)
+
+		matches := re.FindStringSubmatch(link)
+		if len(matches) > 1 {
+			pages, err := strconv.ParseInt(matches[1], 0, 0)
+			return int(pages), err
+		}
+	}
+	return 1, nil // No error, but no pages either
 }
 
 func fetchContributions(username string, cChan chan Contribution) error {
 	var wg sync.WaitGroup
-	wg.Add(5)
 
-	// We need to default to something if we don't want to do an initial
-	// request to get the number of available pages (in the Link Header).
-	//
-	// Anyway, after several tests, it looks like it's always 5.
-	numberOfPages := 5
+	numberOfPages, err := getNumberOfPages(username)
+	if err != nil {
+		return err
+	}
+	// TODO: for testing purposes, and perhaps for later we are going to limit this
+	if numberOfPages > 2 {
+		numberOfPages = 2
+	}
 
-	for i := 1; i <= numberOfPages; i++ {
+	wg.Add(numberOfPages)
+
+	for page := 1; page <= numberOfPages; page++ {
 		go func(page int) error {
 			url := getUrl(username, page)
 
@@ -95,25 +169,19 @@ func fetchContributions(username string, cChan chan Contribution) error {
 				return err
 			}
 
-			cs := Contributions{}
-			err = json.Unmarshal(body, &cs)
+			sr := SearchResults{}
+			err = json.Unmarshal(body, &sr)
 			if err != nil {
 				return err
 			}
 
-			isNewPR := func(c Contribution) bool {
-				return c.Type == "PullRequestEvent" && c.Payload.Action == "opened"
-			}
-			for _, c := range cs {
-				if isNewPR(c) {
-					log.Println(c)
-					cChan <- c
-				}
+			for _, i := range sr.Items {
+				cChan <- NewContributionFromSearchResponse(i)
 			}
 
 			wg.Done()
 			return nil
-		}(i)
+		}(page)
 	}
 
 	wg.Wait()

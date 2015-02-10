@@ -1,10 +1,23 @@
 {{set . "title" "Home"}}
 {{template "header.html" .}}
 
-{{ .contributions }}
+<div ng-controller="ContributionsController">
+  <form ng-submit="get()">
+    <label for="username">
+      <input required placeholder="agonzalezro" type="text" ng-model="username" name="username" />
+    </label>
+    <input type="submit" id="submit" value="Show me!" />
+  </form>
 
-<form>
-  <label for="username"><input type="text" name="username" /></label>
-</form>
+  <dl class="dl-horizontal" ng-repeat="c in contributions">
+    <dt>
+      <strong><a href="https://github.com/{{"{{"}}c.project{{"}}"}}">{{"{{"}}c.project{{"}}"}}</a></strong>
+      <p>{{"{{"}}c.date{{"}}"}}</p>
+    <dd>
+      <strong><a href="{{"{{"}}c.url{{"}}"}}">{{"{{"}}c.title{{"}}"}}</a></strong>
+      <p>{{"{{"}}c.body{{"}}"}}</p>
+    </dd>
+  </dl>
+</div>
 
 {{template "footer.html" .}}
